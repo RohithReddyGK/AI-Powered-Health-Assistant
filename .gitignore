@@ -1,0 +1,8 @@
+# Ignore the virtual environment
+aihealth/
+
+# Ignore unnecessary system files
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo

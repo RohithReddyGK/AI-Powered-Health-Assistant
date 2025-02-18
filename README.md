@@ -52,6 +52,7 @@ If an "appointment" query is detected, it will just print the pre-defined messag
 
 ### Author
 👤 **Rohith Reddy.G.K**
+
 Github: [@RohithReddyGK](https://github.com/RohithReddyGK)  
 LinkedIn: [@rohithreddygk](https://linkedin.com/in/rohithreddygk)
 

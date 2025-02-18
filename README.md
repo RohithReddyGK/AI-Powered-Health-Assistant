@@ -50,12 +50,12 @@ If an "appointment" query is detected, it will just print the pre-defined messag
 💬 User: "What are the symptoms of flu?"
 🤖 Chatbot: "Common flu symptoms include fever, cough, sore throat, muscle aches, fatigue, and headaches..."
 
-Author
+### Author
 👤 Rohith Reddy.G.K
 Github: @RohithReddyGK
 LinkedIn: @rohithreddygk
 
-Show your support
+### Show your support
 Give a ⭐️ if this project helped you!
 
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

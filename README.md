@@ -28,8 +28,9 @@ pip install -r requirements.txt
 
 # Run the Application:
 streamlit run app.py
+```
 
-Usage
+## Usage
 Once the installation is complete, follow these steps to use the AI-Powered Health Assistant:
 
 1️⃣ Start the Application

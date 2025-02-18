@@ -33,27 +33,27 @@ streamlit run app.py
 ## Usage
 Once the installation is complete, follow these steps to use the AI-Powered Health Assistant:
 
-1️⃣ Start the Application
+1️⃣ **Start the Application**
 Run the following command:
 streamlit run app.py
 
-2️⃣ Interacting with the Chatbot
+2️⃣ **Interacting with the Chatbot**
 Enter health-related questions (e.g., "What are the symptoms of diabetes?").
 Ask about medical conditions, treatments, or general health tips.
 Use the keyword "appointment" to receive guidance on scheduling medical appointments.
 
-3️⃣ Expected Output
+3️⃣ **Expected Output**
 The chatbot will generate context-aware responses using the Falcon-7B-Instruct model.
 If an "appointment" query is detected, it will just print the pre-defined message.
 
-4️⃣ Example Query:
+4️⃣ **Example Query:**
 💬 User: "What are the symptoms of flu?"
 🤖 Chatbot: "Common flu symptoms include fever, cough, sore throat, muscle aches, fatigue, and headaches..."
 
 ### Author
-👤 Rohith Reddy.G.K
-Github: @RohithReddyGK
-LinkedIn: @rohithreddygk
+👤 **Rohith Reddy.G.K**
+Github: [@RohithReddyGK](https://github.com/RohithReddyGK)  
+LinkedIn: [@rohithreddygk](https://linkedin.com/in/rohithreddygk)
 
 ### Show your support
 Give a ⭐️ if this project helped you!

@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to AI-Powered-Health-Assistant 👋</h1>
+<h1 align="center">Welcome to 🤖 AI-Powered-Health-Assistant 👋</h1>
 <p>
 </p>
 
@@ -18,9 +18,9 @@ informative, and coherent medical responses, making the AI-powered Chatbot a val
 healthcare accessibility. The appointment scheduling feature further enhances user engagement, 
 providing a personalized and interactive healthcare assistant experience.
 
-In conclusion, the AI-Powered Health Assistant demonstrates the potential of AI-driven 
+<h3>In conclusion, the AI-Powered Health Assistant demonstrates the potential of AI-driven 
 healthcare solutions and its scalability, thereby bridging the gap between medical expertise and 
-users seeking reliable health information.
+users seeking reliable health information.</h3>
 
 ## Install
 
@@ -49,7 +49,7 @@ streamlit run app.py
 
 Once the installation is complete, follow these steps to use the AI-Powered Health Assistant:
 
-### 1️⃣ Start the Application  
+1️⃣ Start the Application  
 Run the following command:
 ```bash
 streamlit run app.py

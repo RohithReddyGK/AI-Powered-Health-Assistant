@@ -57,4 +57,4 @@ Github: [@RohithReddyGK](https://github.com/RohithReddyGK)
 LinkedIn: [@rohithreddygk](https://linkedin.com/in/rohithreddygk)
 
 ### Show your support
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if you like this project!

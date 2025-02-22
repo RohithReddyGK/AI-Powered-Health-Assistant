@@ -8,9 +8,6 @@ The project is built with **Streamlit**, offering an intuitive and interactive C
 
 Key results from testing show that the **Falcon-7B-Instruct** model effectively generates relevant, informative, and coherent medical responses, making the AI-powered Chatbot a valuable tool for healthcare accessibility. The appointment scheduling feature further enhances user engagement, providing a personalized and interactive healthcare assistant experience.
 
-### Conclusion
-The **AI-Powered Health Assistant** demonstrates the potential of AI-driven healthcare solutions and its scalability, thereby bridging the gap between medical expertise and users seeking reliable health information.
-
 ## Installation
 
 ```bash
@@ -50,6 +47,9 @@ If an "appointment" query is detected, it will just print the pre-defined messag
 💬 User: "What are the symptoms of flu?"
 🤖 Chatbot: "Common flu symptoms include fever, cough, sore throat, muscle aches, fatigue, and headaches..."
 
+### Conclusion
+The **AI-Powered Health Assistant** demonstrates the potential of AI-driven healthcare solutions and its scalability, thereby bridging the gap between medical expertise and users seeking reliable health information.
+
 ### Author
 👤 **Rohith Reddy.G.K**
 
@@ -58,5 +58,3 @@ LinkedIn: [@rohithreddygk](https://linkedin.com/in/rohithreddygk)
 
 ### Show your support
 Give a ⭐️ if this project helped you!
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

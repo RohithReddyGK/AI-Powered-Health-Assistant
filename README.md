@@ -50,24 +50,19 @@ If an "appointment" query is detected, it will just print the pre-defined messag
 ## 🖼️ Screenshots
 
 ### **User-Interactive AI-ChatBot.**
-<img src="https://github.com/user-attachments/assets/bbe0deaf-a021-4a49-bf74-213ae710d5e4
-" width="800" height="450">
+<img src="https://github.com/user-attachments/assets/bbe0deaf-a021-4a49-bf74-213ae710d5e4" width="800" height="450">
 
 ### **Query-1 and its Response.**
-<img src="https://github.com/user-attachments/assets/0b57b252-56ce-4238-8a1d-ae96d3145547
-" width="800" height="450">
+<img src="https://github.com/user-attachments/assets/0b57b252-56ce-4238-8a1d-ae96d3145547" width="800" height="450">
 
 ### **Query-2 and its Response.**
-<img src="https://github.com/user-attachments/assets/06e4de6d-6e8f-4fd3-871c-283f4a62689d
-" width="800" height="450">
+<img src="https://github.com/user-attachments/assets/06e4de6d-6e8f-4fd3-871c-283f4a62689d" width="800" height="450">
 
 ### **Query-3 and its Response.**
-<img src="https://github.com/user-attachments/assets/2b9581d3-a9e9-4c46-aab9-146d665ac1f1
-" width="800" height="450">
+<img src="https://github.com/user-attachments/assets/2b9581d3-a9e9-4c46-aab9-146d665ac1f1" width="800" height="450">
 
 ### **Appointment-Booking Query and its Pre-Built Response.**
-<img src="https://github.com/user-attachments/assets/20cf955b-080b-4d4a-a534-0f5a2bc5c9fd
-" width="800" height="450">
+<img src="https://github.com/user-attachments/assets/20cf955b-080b-4d4a-a534-0f5a2bc5c9fd" width="800" height="450">
 
 ### Conclusion
 The **AI-Powered Health Assistant** demonstrates the potential of AI-driven healthcare solutions and its scalability, thereby bridging the gap between medical expertise and users seeking reliable health information.

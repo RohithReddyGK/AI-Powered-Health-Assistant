@@ -49,7 +49,7 @@ If an "appointment" query is detected, it will just print the pre-defined messag
 
 ## 📹Live Demo
 
-Streamlit: [AI Healthcare ChatBot](rohithreddygk-ai-powered-health-assistant-aichatbot-wd5ka5.streamlit.app)
+Streamlit: [AI Healthcare ChatBot](rohithreddygk-ai-powered-health-assistant-aichatbot-wd5ka5)
 
 ## 🖼️ Screenshots
 

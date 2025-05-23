@@ -1,5 +1,15 @@
 <h1 align="center">Welcome to 🤖 AI-Powered-Health-Assistant 👋</h1>
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Built with](https://img.shields.io/badge/built%20with-Python-blue)
+![Framework](https://img.shields.io/badge/framework-Streamlit-red)
+![Library](https://img.shields.io/badge/library-Scikit--learn-lightgrey)
+![Library](https://img.shields.io/badge/library-Pandas-purple)
+![Library](https://img.shields.io/badge/library-NumPy-orange)
+![Library](https://img.shields.io/badge/library-Matplotlib-green)
+![UI](https://img.shields.io/badge/interface-Web%20App-lightblue)
+
+
 The **AI-Powered Health Assistant** is a cutting-edge application that leverages artificial intelligence to provide medical assistance and user-friendly healthcare interactions. This project utilizes the **Falcon-7B-Instruct** model from Hugging Face, a powerful instruction-based large language model (LLM), to deliver accurate and context-aware medical responses. The system is designed to answer health-related queries and facilitate medical services such as appointment scheduling.
 
 The project is built with **Streamlit**, offering an intuitive and interactive Chatbot interface that ensures a seamless user experience. The methodology includes model integration using **Hugging Face APIs** and dynamic conversation handling. The Chatbot is capable of processing natural language queries, analyzing symptoms, providing health-related insights, and responding appropriately to user prompts. Additionally, the assistant recognizes specific keywords like "appointment" and facilitates appointment booking functionalities by displaying relevant messages or guidance.

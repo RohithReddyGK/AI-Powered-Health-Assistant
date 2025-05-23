@@ -3,11 +3,12 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Built with](https://img.shields.io/badge/built%20with-Python-blue)
 ![Framework](https://img.shields.io/badge/framework-Streamlit-red)
-![Library](https://img.shields.io/badge/library-Scikit--learn-lightgrey)
-![Library](https://img.shields.io/badge/library-Pandas-purple)
-![Library](https://img.shields.io/badge/library-NumPy-orange)
-![Library](https://img.shields.io/badge/library-Matplotlib-green)
 ![UI](https://img.shields.io/badge/interface-Web%20App-lightblue)
+
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
+![Platform](https://img.shields.io/badge/platform-Any--OS-important)
+
 
 
 The **AI-Powered Health Assistant** is a cutting-edge application that leverages artificial intelligence to provide medical assistance and user-friendly healthcare interactions. This project utilizes the **Falcon-7B-Instruct** model from Hugging Face, a powerful instruction-based large language model (LLM), to deliver accurate and context-aware medical responses. The system is designed to answer health-related queries and facilitate medical services such as appointment scheduling.

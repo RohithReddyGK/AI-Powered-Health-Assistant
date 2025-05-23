@@ -1,6 +1,4 @@
 <h1 align="center">Welcome to 🤖 AI-Powered-Health-Assistant 👋</h1>
-<p>
-</p>
 
 The **AI-Powered Health Assistant** is a cutting-edge application that leverages artificial intelligence to provide medical assistance and user-friendly healthcare interactions. This project utilizes the **Falcon-7B-Instruct** model from Hugging Face, a powerful instruction-based large language model (LLM), to deliver accurate and context-aware medical responses. The system is designed to answer health-related queries and facilitate medical services such as appointment scheduling.
 

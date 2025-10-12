@@ -8,11 +8,11 @@
 ![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
 ![Platform](https://img.shields.io/badge/platform-Any--OS-important)
 
-The **AI-Powered Health Assistant** is a cutting-edge application that leverages artificial intelligence to provide medical assistance and user-friendly healthcare interactions. This project utilizes the **Falcon-7B-Instruct** model from Hugging Face, a powerful instruction-based large language model (LLM), to deliver accurate and context-aware medical responses. The system is designed to answer health-related queries and facilitate medical services such as appointment scheduling.
+The AI-Powered Health Assistant is a modern AI application that leverages Google’s Generative AI (Gemini) models, specifically gemini-2.5-flash-lite, to provide medical assistance and interactive healthcare support. The system answers health-related queries, provides medical insights, and facilitates services such as appointment scheduling in a user-friendly interface.
 
-The project is built with **Streamlit**, offering an intuitive and interactive Chatbot interface that ensures a seamless user experience. The methodology includes model integration using **Hugging Face APIs** and dynamic conversation handling. The Chatbot is capable of processing natural language queries, analyzing symptoms, providing health-related insights, and responding appropriately to user prompts. Additionally, the assistant recognizes specific keywords like "appointment" and facilitates appointment booking functionalities by displaying relevant messages or guidance.
+The project is built with Streamlit, providing an intuitive Chatbot interface. The assistant uses Gemini-2.5-Flash-Lite through the Google Generative AI API to process natural language queries, analyze symptoms, and generate context-aware medical responses. The system also recognizes keywords like “appointment” to guide users through appointment-related functionalities.
 
-Key results from testing show that the **Falcon-7B-Instruct** model effectively generates relevant, informative, and coherent medical responses, making the AI-powered Chatbot a valuable tool for healthcare accessibility. The appointment scheduling feature further enhances user engagement, providing a personalized and interactive healthcare assistant experience.
+Key results show that the Chatbot delivers accurate, coherent, and informative responses, enhancing healthcare accessibility and engagement.
 
 ## Installation
 
@@ -21,13 +21,8 @@ Key results from testing show that the **Falcon-7B-Instruct** model effectively 
 git clone https://github.com/your-username/AI-Health-Assistant.git
 cd AI-Health-Assistant
 
-# Create a Virtual Environment (Optional but Recommended):
-python -m venv venv
-source venv/bin/activate  # For macOS/Linux
-venv\Scripts\activate     # For Windows
-
 # Install Dependencies:
-pip install -r requirements.txt
+pip install streamlit requests google-generativeai
 
 # Run the Application:
 streamlit run app.py
@@ -46,7 +41,7 @@ Ask about medical conditions, treatments, or general health tips.
 Use the keyword "appointment" to receive guidance on scheduling medical appointments.
 
 3️⃣ **Expected Output**
-The chatbot will generate context-aware responses using the Falcon-7B-Instruct model.
+The chatbot will generate context-aware responses using the the "gemini-2.5-flash-lite" model.
 If an "appointment" query is detected, it will just print the pre-defined message.
 
 4️⃣ **Example Query:**
@@ -56,19 +51,22 @@ If an "appointment" query is detected, it will just print the pre-defined messag
 ## 🖼️ Screenshots
 
 ### **User-Interactive AI-ChatBot.**
-<img src="https://github.com/user-attachments/assets/bbe0deaf-a021-4a49-bf74-213ae710d5e4" width="800" height="450">
+<img src="https://github.com/user-attachments/assets/807b9d26-2a62-45a1-8ccb-7aed7d7b1fc0" width="800" height="450">
+
 
 ### **Query-1 and its Response.**
-<img src="https://github.com/user-attachments/assets/0b57b252-56ce-4238-8a1d-ae96d3145547" width="800" height="450">
+<img src="https://github.com/user-attachments/assets/7f5698bf-0b43-462d-be6d-5bf28d59a5cb"
+width="800" height="450">
 
 ### **Query-2 and its Response.**
-<img src="https://github.com/user-attachments/assets/06e4de6d-6e8f-4fd3-871c-283f4a62689d" width="800" height="450">
+<img src="https://github.com/user-attachments/assets/68793bb2-09b2-446c-911e-8aac5fe8836c"
+width="800" height="450">
 
 ### **Query-3 and its Response.**
-<img src="https://github.com/user-attachments/assets/2b9581d3-a9e9-4c46-aab9-146d665ac1f1" width="800" height="450">
+<img src="https://github.com/user-attachments/assets/18d2819b-70b8-4b0c-9eb5-99b2a247674d" width="800" height="450">
 
 ### **Appointment-Booking Query and its Pre-Built Response.**
-<img src="https://github.com/user-attachments/assets/20cf955b-080b-4d4a-a534-0f5a2bc5c9fd" width="800" height="450">
+<img src="https://github.com/user-attachments/assets/a2d5686d-db28-48c0-a7ed-84f0075192a6" width="800" height="450">
 
 ### Conclusion
 The **AI-Powered Health Assistant** demonstrates the potential of AI-driven healthcare solutions and its scalability, thereby bridging the gap between medical expertise and users seeking reliable health information.

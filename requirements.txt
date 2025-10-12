@@ -1,0 +1,8 @@
+streamlit==1.50.0
+google-generativeai==0.8.5
+requests==2.32.4
+numpy==2.3.3
+pandas==2.3.3
+pydeck==0.9.1
+altair==5.5.0
+python-dotenv==1.0.0

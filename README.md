@@ -22,7 +22,7 @@ git clone https://github.com/your-username/AI-Health-Assistant.git
 cd AI-Health-Assistant
 
 # Install Dependencies:
-pip install streamlit requests google-generativeai
+pip install -r requirements.txt
 
 # Run the Application:
 streamlit run app.py

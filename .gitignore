@@ -1,5 +1,4 @@
-# Ignore the virtual environment
-aihealth/
+aichatbot.py
 
 # Ignore unnecessary system files
 .DS_Store

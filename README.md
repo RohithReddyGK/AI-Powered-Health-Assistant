@@ -14,6 +14,8 @@ The project is built with Streamlit, providing an intuitive Chatbot interface. T
 
 Key results show that the Chatbot delivers accurate, coherent, informative responses,and downlodable chat history with enhancing healthcare accessibility and engagement.
 
+---
+
 ## Installation
 
 ```bash
@@ -24,6 +26,8 @@ cd AI-Health-Assistant
 # Install Dependencies:
 pip install -r requirements.txt
 ```
+
+---
 
 ## Usage
 Once the installation is complete, follow these steps to use the AI-Powered Health Assistant:
@@ -45,14 +49,20 @@ If an "appointment" query is detected, it will just print the pre-defined messag
 💬 User: "What are the symptoms of flu?"
 🤖 Chatbot: "Common flu symptoms include fever, cough, sore throat, muscle aches, fatigue, and headaches..."
 
+---
+
 ### Conclusion
 The **AI-Powered Health Assistant** demonstrates the potential of AI-driven healthcare solutions and its scalability, thereby bridging the gap between medical expertise and users seeking reliable health information.
+
+---
 
 ### Author
 👤 **Rohith Reddy.G.K**
 
 Github: [@RohithReddyGK](https://github.com/RohithReddyGK)  
 LinkedIn: [@rohithreddygk](https://linkedin.com/in/rohithreddygk)
+
+---
 
 ### Show your support
 Give a ⭐️ if you like this project!
